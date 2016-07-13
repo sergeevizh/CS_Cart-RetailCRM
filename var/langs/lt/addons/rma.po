@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/rma.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::rma"
+msgid "RMA"
+msgstr "RMA"
+
+msgctxt "Addons::description::rma"
+msgid "Adds a return management system"
+msgstr "Prideda grąžinimų valdymo sistemą"
+
+msgctxt "Languages::returned_products"
+msgid "Returned products"
+msgstr "Grąžiname"
+
+msgctxt "Languages::rma_return"
+msgid "Return"
+msgstr "Grąžinimas"
+
+msgctxt "Languages::no_return_requests_found"
+msgid "No return requests found"
+msgstr "Nėra grąžinimo prašymų"
+
+msgctxt "Languages::returned_product"
+msgid "Returned product"
+msgstr "Grąžiname"
+
+msgctxt "Languages::returns"
+msgid "Returns"
+msgstr "Grąžinta"
+
+msgctxt "Languages::returns_info"
+msgid "Returns info"
+msgstr "Grąžinimo info"
+
+msgctxt "Languages::return_info"
+msgid "Return information"
+msgstr "Grąžinimo informacija"
+
+msgctxt "Languages::order_returns"
+msgid "Order returns"
+msgstr "Užsakymas grąžinti"
+
+msgctxt "Languages::return_registration"
+msgid "Request a replacement or a refund"
+msgstr "Prašymas pakeisti arba grąžinti"
+
+msgctxt "Languages::return_requests"
+msgid "Return requests"
+msgstr "Grąžinimo prašymai"
+
+msgctxt "Languages::return_requests_menu_description"
+msgid "View and process return requests from orders placed on your web site."
+msgstr "Peržiūrėti ir procesuoti grįžinimo prašymus iš užsakymus interneto svetainėje."
+
+msgctxt "Languages::return_status"
+msgid "Return status"
+msgstr "Grąžinimo būsena"
+
+msgctxt "Languages::return_period"
+msgid "Return period"
+msgstr "Grąžinimo laikotarpis"
+
+msgctxt "Languages::what_you_would_like_to_do"
+msgid "What would you like to do"
+msgstr "Ką norėtumėte daryti"
+
+msgctxt "Languages::rma_notify_supplier"
+msgid "Notify supplier"
+msgstr "Pranešti tiekėjui"
+
+msgctxt "Languages::add_reason"
+msgid "Add reason"
+msgstr "Pridėti priežastis"
+
+msgctxt "Languages::new_reason"
+msgid "New reason"
+msgstr "Nauja priežastis"
+
+msgctxt "Languages::type_comment"
+msgid "Type comments here"
+msgstr "Įveskite komentarus čia"
+
+msgctxt "Languages::return_requests_note"
+msgid "Go to the list of your return requests"
+msgstr "Eiti į jūsų grąžinimo prašymų sąrašą"
+
+msgctxt "Languages::privileges.manage_rma"
+msgid "Manage RMA system"
+msgstr "Valdyti RMA sistema"
+
+msgctxt "Languages::text_return_change_warning"
+msgid "The status of return #[return_id] will be changed"
+msgstr "Grąžinimo #[return_id] būsena"
+
+msgctxt "Languages::returnable"
+msgid "Returnable"
+msgstr "Grąžinama"
+
+msgctxt "Languages::returnable_product"
+msgid "Returnable product"
+msgstr "Grąžintinos prekės"
+
+msgctxt "Languages::rma_request_statuses"
+msgid "RMA request statuses"
+msgstr "RMA prašymo būsenos"
+
+msgctxt "Languages::return_products_information"
+msgid "Return products information"
+msgstr "Grąžinamų produktų informacija"
+
+msgctxt "Languages::declined_products_information"
+msgid "Declined products information"
+msgstr "Atmestų grąžinimo produktų informacija"
+
+msgctxt "Languages::rma_reasons"
+msgid "RMA reasons"
+msgstr "RMA priežastys"
+
+msgctxt "Languages::rma_actions"
+msgid "RMA actions"
+msgstr "RMA veiksmai"
+
+msgctxt "Languages::rma"
+msgid "RMA"
+msgstr "RMA"
+
+msgctxt "Languages::return_period_days"
+msgid "Return period (days)"
+msgstr "Grąžinimo laikotarpis (dienomis)"
+
+msgctxt "Languages::all_actions"
+msgid "All actions"
+msgstr "Visi veiksmai"
+
+msgctxt "Languages::order_total_will_changed"
+msgid "The order total will be changed by"
+msgstr "Užsakymo suma bus pakeista"
+
+msgctxt "Languages::shipping_costs_will_changed"
+msgid "Shipping costs will be changed by"
+msgstr "Siuntimo išlaidos bus pakeistos"
+
+msgctxt "Languages::decline_products"
+msgid "Decline products"
+msgstr "Atmesti produktai"
+
+msgctxt "Languages::create_gift_certificate"
+msgid "Create gift certificate"
+msgstr "Dovanų kupono kūrimas"
+
+msgctxt "Languages::accept_products"
+msgid "Accept products"
+msgstr "Priimti produktus"
+
+msgctxt "Languages::recalculate_order"
+msgid "Recalculate order"
+msgstr "Perskaičiuoti užsakymą"
+
+msgctxt "Languages::manually_recalculate_order"
+msgid "Recalculate the order manually"
+msgstr "Perskaičiuoti užsakymą rankiniu būdu"
+
+msgctxt "Languages::dont_recalculate_order"
+msgid "Do not recalculate order"
+msgstr "Neperskaičiuoti užsakymo"
+
+msgctxt "Languages::delete_this_return"
+msgid "Delete this return"
+msgstr "Naikinti šį grąžinimą"
+
+msgctxt "Languages::update_totals_and_inventory"
+msgid "Update totals and inventory"
+msgstr "Atnaujinti sumas ir atsargas"
+
+msgctxt "Languages::request_statuses"
+msgid "request statuses"
+msgstr "prašymo būsenos"
+
+msgctxt "SettingsSections::rma::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::rma::display_product_return_period"
+msgid "Display product return period"
+msgstr "Rodyti produkto grąžinimo laikotarpį"
+
+msgctxt "SettingsOptions::rma::dont_take_weekends_into_account"
+msgid "Do not take weekends into account when calculating product return period"
+msgstr "Nevartokite savaitgalių apskaičiuojant produkto grąžinimo laikotarpį"
+

@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-ru\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /addons/rus_sdek.po\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-06-15 15:59-0400\n"
+
+msgctxt "Addons::name::rus_sdek"
+msgid "Russian localization — shipping service SDEK ( cdek.ru )"
+msgstr "Служба доставки — СДЭК"
+
+msgctxt "Addons::description::rus_sdek"
+msgid "Shipping service SDEK"
+msgstr "Калькулятор стоимости доставки."
+
+msgctxt "Languages::shippings_sdek.header_shipping_office"
+msgid "Shipping service office:"
+msgstr "Офис службы доставки:"
+
+msgctxt "Languages::shippings_sdek.header_shipping_office_map"
+msgid "Shipping service office on map:"
+msgstr "Офис СДЭК на карте"
+
+msgctxt "Languages::shippings.sdek.city_error"
+msgid "Invalid city entered"
+msgstr "Город введен не корректно"
+
+msgctxt "Languages::shipping.sdek.get_city_data"
+msgid "Get city ID"
+msgstr "Получить ID города"
+
+msgctxt "Languages::shipping.sdek.get_city_data.tooltip"
+msgid "A request to get the city ID will be sent to SDEK"
+msgstr "Будет отправлен запрос в СДЭК для получения ID города"
+
+msgctxt "Languages::shipping.sdek.city_id.tooltip"
+msgid "Technical info necessary for the shipping cost calculator. To get the ID, enter the city name in the City from field and click the Get city ID link. Save the received settings."
+msgstr "Техническая информация, необходима для калькулятора стоимости доставки. Для получения ID введите название города в поле \"Город отправления\" и нажмите ссылку \"Получить ID города\". Сохраните полученные настройки."
+
+msgctxt "Languages::sdek_tariff_sklad"
+msgid "Stock-Stock"
+msgstr "Склад — Склад"
+
+msgctxt "Languages::sdek_tariff_dver"
+msgid "Stock-Door"
+msgstr "Склад — Дверь"
+
+msgctxt "Languages::shippings.sdek.lang_error"
+msgid "Switch language to Russian"
+msgstr "Переключите язык на русский"
+
+msgctxt "Languages::shippings_sdek.authlogin"
+msgid "Access login to calculations server"
+msgstr "Логин для доступа к серверу расчетов"
+
+msgctxt "Languages::shippings_sdek.authpassword"
+msgid "Password login to calculations server"
+msgstr "Пароль для доступа к серверу расчетов"
+
+msgctxt "Languages::shippings.sdek.dateexecute"
+msgid "The number of days in which the order is planned to be shipped"
+msgstr "Количество дней, через сколько будет произведена планируемая отправка заказа"
+
+msgctxt "Languages::shippings.sdek.sendercityid"
+msgid "Sender city name. Start entering the city name, then select the needed one from the options suggested"
+msgstr "Город-отправитель. Начинайте вводить название города, затем выберите из предложенных вариантов нужный город"
+
+msgctxt "Languages::shippings.sdek.sendercitypostcode"
+msgid "Zip code of the sender city. (Not required if the sender city is selected)"
+msgstr "Почтовый индекс города-отправителя. (Необязательно, если выбран город-отправитель)"
+
+msgctxt "Languages::shippings.sdek.tariffid"
+msgid "Selecting available plans. The higher a plan is in the list, the higher its priority is"
+msgstr "Выбор доступных тарифов"
+
+msgctxt "Languages::shipping.sdek.city_id"
+msgid "City ID"
+msgstr "ID города"
+
+msgctxt "Languages::shippings.sdek.activation_error"
+msgid "To activate the SDEK shipping processor, the Russian rouble currency (RUB) must be active and defined as base."
+msgstr "Для активации службы доставки СДЭК валюта Российский Рубль (RUB) должна быть активна и назначена основной."
+
+msgctxt "Languages::shippings.sdek.country_error"
+msgid "The SDEK shipping method is available for the Russian Federation only. You can change settings of countries (Settings -> Company)."
+msgstr "Способ доставки СДЭК доступен только для Российской Федерации. Вы можете изменить настройки стран (Настройки -> Компания)"
+
+msgctxt "Languages::shippings.sdek.code_error"
+msgid "There is a mistake in the city zip code. Please check the correctness of the data entered"
+msgstr "Ошибка в коде города. Проверьте правильность заполнения"
+
+msgctxt "Languages::shippings.sdek.sender_code_error"
+msgid "There is a mistake in the sender city. Please check the correctness of the data entered"
+msgstr "Ошибка в коде города-отправителя. Проверьте правильность заполнения"
+
+msgctxt "Languages::shippings.sdek.account_password_error"
+msgid "Enter the account name and the password in the settings of the shipping method that uses SDEK"
+msgstr "Введите имя учетной записи и пароль в настройках способа доставки СДЭК"
+
+msgctxt "Languages::shippings.sdek.sdek_orders"
+msgid "Orders for delivery SDEK"
+msgstr "Заказы на доставку СДЭК"
+
+msgctxt "Languages::sdek.sdek_tariff"
+msgid "Tariff SDEK"
+msgstr "Тариф СДЭК"
+
+msgctxt "Languages::sdek.update_status"
+msgid "Update status"
+msgstr "Обновить статусы"
+
+msgctxt "Languages::shippings.sdek.status_title"
+msgid "Order status SDEK"
+msgstr "Статусы заказа СДЭК"
+
+msgctxt "Languages::sdek.lang_city"
+msgid "City spent parcels"
+msgstr "Местонахождение посылки"
+
+msgctxt "Languages::sdek.receipt_order"
+msgid "Print ticket"
+msgstr "Квитанция"
+
+msgctxt "Languages::shippings.sdek.sdek_menu"
+msgid "SDEK"
+msgstr "СДЭК"
+
+msgctxt "Languages::carrier_sdek"
+msgid "SDEK"
+msgstr "СДЭК"
+
+msgctxt "Languages::sdek.new_schedule"
+msgid "New schedule"
+msgstr "Прозвон получателя"
+
+msgctxt "Languages::sdek.date_delivery"
+msgid "Date of delivery"
+msgstr "Дата доставки"
+
+msgctxt "Languages::sdek.time"
+msgid "Starting/closing time delivery recipient"
+msgstr "Время доставки покупателю"
+
+msgctxt "Languages::sdek.delivery_recipient_cost"
+msgid "Additional cost of delivery recipient"
+msgstr "Дополнительная стоимость доставки"
+
+msgctxt "Languages::sdek.street"
+msgid "Street"
+msgstr "Улица"
+
+msgctxt "Languages::sdek.house"
+msgid "House"
+msgstr "Дом"
+
+msgctxt "Languages::sdek.flat"
+msgid "Flat"
+msgstr "Квартира"
+
+msgctxt "Languages::sdek.call_courier"
+msgid "Call courier"
+msgstr "Вызов курьера"
+
+msgctxt "Languages::sdek.time_courier"
+msgid "Starting/closing time expectations courier"
+msgstr "Время ожидания курьера"
+
+msgctxt "Languages::sdek.time_lunch"
+msgid "Starting/closing time lunch"
+msgstr "Время обеда"
+
+msgctxt "Languages::sdek.cash_on_delivery"
+msgid "Cash on delivery"
+msgstr "Наложенный платеж"
+
+msgctxt "Languages::sdek_tariff_dver_sklad"
+msgid "Door-Stock"
+msgstr "Дверь-Склад"
+
+msgctxt "Languages::sdek_tariff_dver_dver"
+msgid "Door-Door"
+msgstr "Дверь-Дверь"
+
+msgctxt "Languages::sdek.sdek_address_shipping"
+msgid "Address shipping"
+msgstr "Адрес доставки"
+
+msgctxt "Languages::shipping.sdek.use_imposed"
+msgid "Include impose pay"
+msgstr "Включить наложенный платеж"
+
+msgctxt "Languages::shipping.sdek.use_product"
+msgid "Include product price"
+msgstr "Включить цену товара"
+
+msgctxt "Languages::shippings.sdek.barcode"
+msgid "Number packing"
+msgstr "Номер упаковки"
+
+msgctxt "Languages::shippings.sdek.tariffid.tooltip"
+msgid "Restrictions on package delivery: Delivery across Russia, maximum weight of a package is 30kg; <br /> Restrictions on economic delivery: Delivery from Moscow to Ural or Crimea only, maximum weight of a package is 50kg; <br /> Restrictions on delivery to InPost terminals: Delivery across Russia. If the weight is 5kg, the locker size is 8*38*64cm. If the weight is 7kg, the locker size is 19*38*64cm. If the weight is 20kg, the locker size is 41*38*64cm. Only one shipment per order. The terminal can't be changed. If it's impossible to deliver the shipment to an InPost terminal, package delivery rules apply. A package can't be stored in the locker for longer than 5 days."
+msgstr "Ограничения отправления посылки: Доставка по России, максимальный вес 30кг; <br /> Ограничения отправления экономичной посылки: Доставка из Москвы в Урал или Крым, максимальный вес 50кг; <br /> Ограничения отправления в постоматы InPost: Доставка по России. Вес 5кг - размер места 8*38*64см, вес 7кг - размер места 19*38*64см, вес 20кг - размер места 41*38*64см. Только одно отправление в заказе. Терминал нельзя изменять. Если доставка не возможна, будет использоватся отправка посылки. Максимальное время хранения в постомате - 5 дней."
+
+msgctxt "Languages::shipping.sdek.error_calculate"
+msgid "Error calculate"
+msgstr "Ошибка расчета"
+

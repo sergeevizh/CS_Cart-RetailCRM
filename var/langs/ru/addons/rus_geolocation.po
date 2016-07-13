@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-ru\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /addons/rus_geolocation.po\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-06-15 15:59-0400\n"
+
+msgctxt "Addons::name::rus_geolocation"
+msgid "Geolocation"
+msgstr "Определение местоположения"
+
+msgctxt "Addons::description::rus_geolocation"
+msgid "Use Yandex Geolocation to determine a customer's city"
+msgstr "Определение города с использованием сервиса Yandex"
+
+msgctxt "SettingsSections::rus_geolocation::general"
+msgid "General settings"
+msgstr "Общие настройки"
+
+msgctxt "SettingsOptions::rus_geolocation::provider"
+msgid "Provider"
+msgstr "Определение местоположения"
+
+msgctxt "SettingsOptions::rus_geolocation::geolocation_provider"
+msgid "Geolocation provider"
+msgstr "Способ определения местоположения"
+
+msgctxt "SettingsTooltips::rus_geolocation::geolocation_provider"
+msgid "Determines how to locate a customer: <br /> Yandex—uses Yandex data and the customer's IP address. <br /> Browser—uses built-in geolocation of the customer's browser. <br /> Mixed (Browser + Yandex)—selects the best geolocation provider available."
+msgstr "Yandex — определять местоположение по данным Яндекса на основе IP-адреса пользователя. <br /> Браузер — использовать встроенные средства браузера для определения местоположения. <br /> Автоматический (Браузер + Yandex) — использовать оба способа и выбрать лучшее значение."
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::auto"
+msgid "Mixed (Browser + Yandex)"
+msgstr "Автоматический (Браузер + Yandex)"
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::browser"
+msgid "Browser"
+msgstr "Браузер"
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "Languages::list_geolocation"
+msgid "Geolocation"
+msgstr "Определение местоположения"
+
+msgctxt "Languages::block_geolocation"
+msgid "Geolocation"
+msgstr "Определение города"
+
+msgctxt "Languages::block_geolocation_description"
+msgid "Current city and city selection form"
+msgstr "Автоматическое определение города"
+
+msgctxt "Languages::tmpl_geolocation"
+msgid "Geolocation"
+msgstr "Определение местоположения"
+
+msgctxt "Languages::addon.rus_geolocation.select_cities"
+msgid "City list"
+msgstr "Список городов"
+
+msgctxt "Languages::addon.rus_geolocation.find_city"
+msgid "Your city is"
+msgstr "Ваш город"
+
+msgctxt "Languages::addon.rus_geolocation.select_different_city"
+msgid "Choose another city"
+msgstr "Выбрать другой город"
+
+msgctxt "Languages::addon.rus_geolocation.select_city"
+msgid "Your store's cities"
+msgstr "Выбрать город"
+
+msgctxt "Languages::addon.rus_geolocation.select_geocities"
+msgid "Choose your city"
+msgstr "Список городов магазина"
+
+msgctxt "Languages::addon.rus_geolocation.choose_cities"
+msgid "Yes, this is my city"
+msgstr "Город определен верно"
+
+msgctxt "Languages::addon.rus_geolocation.selected_fields"
+msgid "Selected cities"
+msgstr "Список выбранных городов"
+
+msgctxt "Languages::addon.rus_geolocation.cities"
+msgid "Cities"
+msgstr "Города"
+
+msgctxt "Languages::addon.rus_geolocation.add_cities"
+msgid "Add cities"
+msgstr "Добавить города"
+

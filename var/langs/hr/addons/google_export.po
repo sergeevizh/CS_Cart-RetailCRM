@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Croatian\n"
+"Language: hr_HR\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: hr\n"
+"X-Crowdin-File: /addons/google_export.po\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-04-18 04:54-0400\n"
+
+msgctxt "Addons::name::google_export"
+msgid "Google export"
+msgstr "Google izvoz"
+
+msgctxt "Addons::description::google_export"
+msgid "Expands the Data Feeds add-on to work with Google Base and creates an example of such data feed"
+msgstr "Proširi listu podataka dodatcima za rad sa Google Base i kreiraj primjer takve podatkovne liste"
+
+msgctxt "Languages::google_export_general_info"
+msgid "<p>Note: toggle this setting if you need multi-language Google categories installed. Supports French, German, Italian, Spanish, and British English. Pay attention that this operation can take a significant amount of time.</p>"
+msgstr "<p>Napomena: kliknite na ovu postavku ako trebate instaliati višejezičnost Google kategorije. Podržava francuski, njemački, talijanski, španjolski i britanski engleski. Obratite pažnju da ovaj postupak može trajati vrlo dugo vremena.</p>"
+
+msgctxt "Languages::google_export_start_import"
+msgid "Start importing"
+msgstr "Početak uvoza podataka"
+
+msgctxt "SettingsSections::google_export::general"
+msgid "General"
+msgstr "Općenito"
+
+msgctxt "SettingsOptions::google_export::general_info"
+msgid "General info"
+msgstr "Opće informacije"
+
+msgctxt "SettingsOptions::google_export::additional_langs"
+msgid "Install additional languages for Google categories"
+msgstr "Instalirajte dodatne jezike za Google kategorije"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices"
+msgid "Don't export items with a price value of 0.00"
+msgstr ""
+
+msgctxt "Languages::addons.google_export.skip_zero_prices_description"
+msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
+msgstr ""
+
+msgctxt "Languages::addons.google_export.notice"
+msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
+msgstr ""
+

@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/access_restrictions.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::access_restrictions"
+msgid "Access restrictions"
+msgstr "Prieigos ribojimas"
+
+msgctxt "Addons::description::access_restrictions"
+msgid "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
+msgstr "Leidžia jums apriboti parduotuvės ir administratorius sryties prieigą iš tam tikrų IP adresų su įvairiom nuostatom"
+
+msgctxt "Languages::access_restrictions"
+msgid "Access restrictions"
+msgstr "Prieeigos ribojimas"
+
+msgctxt "Languages::add_ips"
+msgid "Add IPs"
+msgstr "Pridėti IP"
+
+msgctxt "Languages::new_ips"
+msgid "New IPs"
+msgstr "Naujas IP"
+
+msgctxt "Languages::add_domains"
+msgid "Add domains"
+msgstr "Domenų įtraukimas"
+
+msgctxt "Languages::new_domains"
+msgid "New domains"
+msgstr "Nauji domenai"
+
+msgctxt "Languages::add_emails"
+msgid "Add e-mail addresses"
+msgstr "Įtraukti el. pašto adresus"
+
+msgctxt "Languages::new_emails"
+msgid "New e-mail addresses"
+msgstr "Naujais el. pašto adresas"
+
+msgctxt "Languages::new_credit_card"
+msgid "New credit card"
+msgstr "Nauja kreditinė kortelė"
+
+msgctxt "Languages::add_credit_card"
+msgid "Add credit card"
+msgstr "Pridėti kreditinės kortelės"
+
+msgctxt "Languages::privileges.manage_access_restrictions"
+msgid "Manage access restrictions"
+msgstr "Valdyti prieeigos apribojimų leidimus"
+
+msgctxt "Languages::domain"
+msgid "Domain"
+msgstr "Domenas"
+
+msgctxt "Languages::warning_of_ip_adding"
+msgid "The entered IP address <b>[entered_ip]</b> forbids access to the administration panel from your computer (your IP is <b>[your_ip]</b>)."
+msgstr "Įvestas IP adresas <b>[entered_ip]</b> draudžia prieigą prie administravimo iš jūsų kompiuterio (jūsų IP yra <b>[your_ip]</b>)."
+
+msgctxt "Languages::text_cc_number_is_blocked"
+msgid "The credit card number <b>[cc_number]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "Kreditinės kortelės numeris <b>[cc_number]</b> yra blokuotas administratoriaus Prašome kreiptis į parduotuvės administratorių arba pabandykite kitą kortelę."
+
+msgctxt "Languages::text_not_valid_ip"
+msgid "<b>[ip]</b> is not a valid ip address."
+msgstr "<b>[ip]</b> yra negaliojantis ip adresas."
+
+msgctxt "Languages::text_not_valid_domain"
+msgid "<b>[domain]</b> is not a valid domain name."
+msgstr "<b>[domenas]</b> yra negaliojantis domeno vardas."
+
+msgctxt "Languages::text_not_valid_cc_number"
+msgid "<b>[cc_number]</b> is not a valid credit card number."
+msgstr "<b>[cc_number]</b> yra negaliojančios kreditinės kortelės numeris."
+
+msgctxt "Languages::text_email_is_blocked"
+msgid "The e-mail address <b>[email]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "El. pašto adresas <b>[email]</b> yra užblokuotas administratoriaus. Prašome kreiptis į parduotuvės administratorių arba pabandykite kitą ."
+
+msgctxt "Languages::text_ips_denied"
+msgid "You are not allowed to access this area"
+msgstr "Jums blokuojama šios sryties prieeiga"
+
+msgctxt "Languages::text_ip_blocked_failed_login"
+msgid "The IP was blocked after [number] unsuccessful logins"
+msgstr "Šis IP buvo užblokuotas po [numeris] nesėkmingų prisijungimų"
+
+msgctxt "Languages::text_ip_is_blocked"
+msgid "Your IP address is blocked."
+msgstr "Jūsų IP adresas yra blokuojamas."
+
+msgctxt "Languages::store_admin"
+msgid "Store administrator"
+msgstr "Parduotuvės administratorius"
+
+msgctxt "Languages::your_ip_added"
+msgid "Your IP address <b>[ip]</b> has been added to the access restrictions table."
+msgstr "Jūsų IP adresas <b>[ip]</b> buvo įtrauktas į prieigos apribojimo sąrašą."
+
+msgctxt "Languages::your_ip_enabled"
+msgid "Your IP address <b>[ip]</b> has been enabled in the access restrictions table."
+msgstr "Jūsų IP adresas <b>[ip]</b> buvo įtrauktas į prieigos apribojimo sąrašą."
+
+msgctxt "Languages::your_ip_removed"
+msgid "Your IP address <b>[ip]</b> has been removed from the access restrictions table."
+msgstr "Jūsų IP adresas <b>[ip]</b> pašalintas iš prieigos apribojimo sąrašo."
+
+msgctxt "Languages::ip_from"
+msgid "IP from"
+msgstr "IP iš"
+
+msgctxt "Languages::ip_to"
+msgid "IP to"
+msgstr "IP į"
+
+msgctxt "Languages::text_access_notice"
+msgid "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
+msgstr "Galite naudoti simbolius \"Domenui\", \"El. paštaui\" ir \"Kreditinės kortelės\" skirtukams: <br /><b>*</b>  - gali sudaryti bet koks kiekis simbolių, įskaitant nulį <br /><b>?</b> -  gali sudaryti bet kokį vieną simbolį."
+
+msgctxt "Languages::ips"
+msgid "IPs"
+msgstr "IP"
+
+msgctxt "Languages::make_permanent"
+msgid "Make permanent"
+msgstr "Padaryti nuolatiniu"
+
+msgctxt "Languages::credit_card_number"
+msgid "Credit card number"
+msgstr "Kreditinės kortelės numeris"
+
+msgctxt "SettingsSections::access_restrictions::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::access_restrictions::elm_administrator_area_settings"
+msgid "Administrator area settings"
+msgstr "Administratorius zonos parametrai"
+
+msgctxt "SettingsOptions::access_restrictions::admin_reverse_ip_access"
+msgid "Allow login to the admin area from specified IPs only"
+msgstr "Leisti prisijungti prie administravimo tik iš nurodytų IP"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Blokuoti IP po nesėkmingų bandymų"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts"
+msgid "Number of unsuccessful attempts"
+msgstr "Nesėkmingų bandymų skaičius"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Laikas tarp nesėkmingų bandymų prisijungti (sekundėmis)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Laikas, kuriam IP turėtų būti blokuojamas (valandomis)"
+
+msgctxt "SettingsOptions::access_restrictions::elm_customer_and_affiliate_area_settings"
+msgid "Customer area settings"
+msgstr "Kliento zonos parametrai"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login_customer"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Blokuoti IP po nesėkmingų bandymų prisijungti"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts_customer"
+msgid "Number of unsuccessful attempts"
+msgstr "Nesėkmingų bandymų skaičius"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals_customer"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Laikas tarp nesėkmingų bandymų prisijungti (sekundėmis)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block_customer"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Laikas, kuriam IP turėtų būti blokuojamas (valandomis)"
+

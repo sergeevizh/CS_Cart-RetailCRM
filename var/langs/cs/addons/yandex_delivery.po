@@ -1,0 +1,122 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+
+msgctxt "Addons::name::yandex_delivery"
+msgid "Yandex.Delivery"
+msgstr "Yandex.Delivery"
+
+msgctxt "Addons::description::yandex_delivery"
+msgid "Yandex delivery service"
+msgstr "Yandex delivery service"
+
+msgctxt "SettingsSections::yandex_delivery::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::yandex_delivery::autocomplete"
+msgid "Autocomplete cities and street"
+msgstr "Autocomplete cities and street"
+
+msgctxt "SettingsOptions::yandex_delivery::autopostcode"
+msgid "Autocomplete postcode"
+msgstr "Autocomplete postcode"
+
+msgctxt "SettingsOptions::yandex_delivery::api_keys"
+msgid "API keys"
+msgstr "API keys"
+
+msgctxt "SettingsOptions::yandex_delivery::client_ids"
+msgid "Client ids"
+msgstr "Client ids"
+
+msgctxt "Languages::yandex_delivery_service"
+msgid "Yandex delivery"
+msgstr "Yandex delivery"
+
+msgctxt "Languages::yandex_delivery_pickuppoint"
+msgid "Pickup point"
+msgstr "Pickup point"
+
+msgctxt "Languages::yandex_delivery_todoor"
+msgid "To door"
+msgstr "To door"
+
+msgctxt "Languages::yandex_delivery_metro"
+msgid "Metro"
+msgstr "Metro"
+
+msgctxt "Languages::yandex_delivery_pay_accepted"
+msgid "Available"
+msgstr "Available"
+
+msgctxt "Languages::yandex_delivery_cash"
+msgid "cash"
+msgstr "cash"
+
+msgctxt "Languages::yandex_delivery_credit_card"
+msgid "credit card"
+msgstr "credit card"
+
+msgctxt "Languages::yandex_delivery_deliver_orient_day"
+msgid "deliver orient day"
+msgstr "deliver orient day"
+
+msgctxt "Languages::yandex_delivery_instruction"
+msgid "Instruction"
+msgstr "Instruction"
+
+msgctxt "Languages::yandex_delivery_all_day"
+msgid "Day and night"
+msgstr "Day and night"
+
+msgctxt "Languages::yandex_delivery_every_day"
+msgid "Daily"
+msgstr "Daily"
+
+msgctxt "Languages::yandex_delivery_weekend"
+msgid "Weekend"
+msgstr "Weekend"
+
+msgctxt "Languages::carrier_yandex"
+msgid "Yandex.Delivery"
+msgstr "Yandex.Delivery"
+
+msgctxt "Languages::yandex_delivery_shipping"
+msgid "Delivery type"
+msgstr "Delivery type"
+
+msgctxt "Languages::yandex_delivery_ship_display_type"
+msgid "Display type"
+msgstr "Display type"
+
+msgctxt "Languages::yandex_delivery_cms"
+msgid "Internal"
+msgstr "Internal"
+
+msgctxt "Languages::yandex_delivery.sort_points_list"
+msgid "Sort points"
+msgstr "Sort points"
+
+msgctxt "Languages::yandex_delivery.sort_near"
+msgid "Near"
+msgstr "Near"
+
+msgctxt "Languages::yandex_delivery.sort_no"
+msgid "Not sorting"
+msgstr "Not sorting"
+
+msgctxt "Languages::yandex_delivery.sort_abc"
+msgid "ABC"
+msgstr "ABC"
+
+msgctxt "Languages::yandex_delivery.display_count_pickuppoints"
+msgid "Number of displayed pickup points"
+msgstr "Number of displayed pickup points"
+
+msgctxt "Languages::yandex_delivery.all_point"
+msgid "Show all pickup points"
+msgstr "Show all pickup points"
+

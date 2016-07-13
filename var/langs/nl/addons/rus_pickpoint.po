@@ -1,0 +1,78 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+
+msgctxt "Addons::name::rus_pickpoint"
+msgid "Pickpoint"
+msgstr "Pickpoint"
+
+msgctxt "Addons::description::rus_pickpoint"
+msgid "Shiping service Pickpoint"
+msgstr "Shiping service Pickpoint"
+
+msgctxt "SettingsOptions::rus_pickpoint::general"
+msgid "General settings"
+msgstr "General settings"
+
+msgctxt "SettingsOptions::rus_pickpoint::login"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "SettingsOptions::rus_pickpoint::password"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "SettingsOptions::rus_pickpoint::ikn"
+msgid "IKN"
+msgstr "IKN"
+
+msgctxt "SettingsOptions::rus_pickpoint::secure_protocol"
+msgid "Used secure protocol"
+msgstr "Used secure protocol"
+
+msgctxt "SettingsOptions::rus_pickpoint::server"
+msgid "Type server"
+msgstr "Type server"
+
+msgctxt "SettingsVariants::rus_pickpoint::server::work"
+msgid "Work"
+msgstr "Work"
+
+msgctxt "SettingsVariants::rus_pickpoint::server::test"
+msgid "Test"
+msgstr "Test"
+
+msgctxt "Languages::addons.rus_pickpoint.error_pickpoint_id"
+msgid "Select terminal"
+msgstr "Select terminal"
+
+msgctxt "Languages::addons.rus_pickpoint.pickpoint_id"
+msgid "Id terminal"
+msgstr "Id terminal"
+
+msgctxt "Languages::addons.rus_pickpoint.select_terminal"
+msgid "Select terminal"
+msgstr "Select terminal"
+
+msgctxt "Languages::carrier_pickpoint"
+msgid "Pickpoint"
+msgstr "Pickpoint"
+
+msgctxt "Languages::addons.rus_pickpoint.pickpoint"
+msgid "Pickpoint"
+msgstr "Pickpoint"
+
+msgctxt "Languages::addons.rus_pickpoint.label_postamat_update"
+msgid "For update point of delivery orders pickpoint click \"Update point of delivery orders\", it will take some time"
+msgstr "For update point of delivery orders pickpoint click \"Update point of delivery orders\", it will take some time"
+
+msgctxt "Languages::addons.rus_pickpoint.postamat_update"
+msgid "Update point of delivery orders"
+msgstr "Update point of delivery orders"
+
+msgctxt "SettingsOptions::rus_pickpoint::update"
+msgid "Update terminals"
+msgstr "Update terminals"
+

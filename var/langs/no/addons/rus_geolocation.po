@@ -1,0 +1,93 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+
+msgctxt "Addons::name::rus_geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Addons::description::rus_geolocation"
+msgid "Use Yandex Geolocation to determine a customer's city"
+msgstr "Use Yandex Geolocation to determine a customer's city"
+
+msgctxt "SettingsSections::rus_geolocation::general"
+msgid "General settings"
+msgstr "General settings"
+
+msgctxt "SettingsOptions::rus_geolocation::provider"
+msgid "Provider"
+msgstr "Provider"
+
+msgctxt "SettingsOptions::rus_geolocation::geolocation_provider"
+msgid "Geolocation provider"
+msgstr "Geolocation provider"
+
+msgctxt "SettingsTooltips::rus_geolocation::geolocation_provider"
+msgid "Determines how to locate a customer: <br /> Yandex—uses Yandex data and the customer's IP address. <br /> Browser—uses built-in geolocation of the customer's browser. <br /> Mixed (Browser + Yandex)—selects the best geolocation provider available."
+msgstr "Determines how to locate a customer: <br /> Yandex—uses Yandex data and the customer's IP address. <br /> Browser—uses built-in geolocation of the customer's browser. <br /> Mixed (Browser + Yandex)—selects the best geolocation provider available."
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::auto"
+msgid "Mixed (Browser + Yandex)"
+msgstr "Mixed (Browser + Yandex)"
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::browser"
+msgid "Browser"
+msgstr "Browser"
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "Languages::list_geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Languages::block_geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Languages::block_geolocation_description"
+msgid "Current city and city selection form"
+msgstr "Current city and city selection form"
+
+msgctxt "Languages::tmpl_geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Languages::addon.rus_geolocation.select_cities"
+msgid "City list"
+msgstr "City list"
+
+msgctxt "Languages::addon.rus_geolocation.find_city"
+msgid "Your city is"
+msgstr "Your city is"
+
+msgctxt "Languages::addon.rus_geolocation.select_different_city"
+msgid "Choose another city"
+msgstr "Choose another city"
+
+msgctxt "Languages::addon.rus_geolocation.select_city"
+msgid "Your store's cities"
+msgstr "Your store's cities"
+
+msgctxt "Languages::addon.rus_geolocation.select_geocities"
+msgid "Choose your city"
+msgstr "Choose your city"
+
+msgctxt "Languages::addon.rus_geolocation.choose_cities"
+msgid "Yes, this is my city"
+msgstr "Yes, this is my city"
+
+msgctxt "Languages::addon.rus_geolocation.selected_fields"
+msgid "Selected cities"
+msgstr "Selected cities"
+
+msgctxt "Languages::addon.rus_geolocation.cities"
+msgid "Cities"
+msgstr "Cities"
+
+msgctxt "Languages::addon.rus_geolocation.add_cities"
+msgid "Add cities"
+msgstr "Add cities"

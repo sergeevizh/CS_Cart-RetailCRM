@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/seo.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Addons::description::seo"
+msgid "Adds Search engine-friendly URLs support"
+msgstr "Prideda paieškos variklio draugišką URL"
+
+msgctxt "Languages::seo_rules_menu_description"
+msgid "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "Naudokite šią sekciją apibrėžti automato taisyklės generavimui URL perrašyti jūsų parduotuvėje."
+
+msgctxt "Languages::seo.redirects_manager_menu_description"
+msgid "Manages redirect rules from old URLs"
+msgstr "Valdo peradresavimo taisyklės iš senų URL"
+
+msgctxt "Languages::controller_description"
+msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "Jei norite nurodyti SEO-pavadinimą, URL, pvz http://example.com/index.php?dispatch= <b>categories.catalog</b>, jums reikia įvesti \"<b>categories.catalog</b>\" reikšmę į lauką \"<b>\"išsiuntimo\"parametras iš URL</b>\" ir nurodyti SEO pavadinimą lauke \"<b>SEO pavadinimas</b>\"."
+
+msgctxt "Languages::seo_name"
+msgid "SEO name"
+msgstr "SEO pavadinimas"
+
+msgctxt "Languages::warning_seo_urls_disabled"
+msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "SEO-friendly URL yra išjungtas. Patikrinkite savo tinklo serverio ir URL manipuliavimo variklio parametrus."
+
+msgctxt "Languages::dispatch_value"
+msgid "Dispatch value"
+msgstr "Išsiuntimo vertė"
+
+msgctxt "Languages::url_dispatch_part"
+msgid "The value of the \"dispatch\" parameter from the URL"
+msgstr "\"Išsiuntimo\" parametras iš URL"
+
+msgctxt "Languages::new_rule"
+msgid "New rule"
+msgstr "Nauja taisyklė"
+
+msgctxt "Languages::seo_rules"
+msgid "SEO rules"
+msgstr "SEO taisyklės"
+
+msgctxt "Languages::seo_page_title"
+msgid "page [n]"
+msgstr "puslapis [n]"
+
+msgctxt "Languages::privileges.manage_seo_rules"
+msgid "Manage SEO rules and 301 redirects"
+msgstr "Valdyti SEO taisykles ir 301 peradresavimo"
+
+msgctxt "Languages::privileges.view_seo_rules"
+msgid "View SEO rules and 301 redirects"
+msgstr "Rodyti SEO taisykles ir 301 peradresavimo"
+
+msgctxt "Languages::seo.redirects_manager"
+msgid "301 redirects"
+msgstr "301 peradresavimai"
+
+msgctxt "Languages::seo.old_url"
+msgid "Old URL"
+msgstr "Senas URL"
+
+msgctxt "Languages::seo.new_url"
+msgid "New URL"
+msgstr "Naujas URL"
+
+msgctxt "Languages::seo.new_redirect"
+msgid "New Redirect"
+msgstr "Naujas nukreipimas"
+
+msgctxt "Languages::seo.error_old_url_exists"
+msgid "The URL you're redirecting from is already exist"
+msgstr "Jūs esate nukreipti iš URL jau yra"
+
+msgctxt "Languages::seo.rich_snippets"
+msgid "Google rich snippets preview"
+msgstr "Google rich snippets peržiūra"
+
+msgctxt "Languages::seo.rich_snippets_rating"
+msgid "Rating"
+msgstr "Reitingas"
+
+msgctxt "Languages::seo.rich_snippets_reviews"
+msgid "[n] review|[n] reviews"
+msgstr "[n] review|[n] atsiliepimai"
+
+msgctxt "Languages::seo.create_redirect"
+msgid "Create redirect from old URL"
+msgstr "Sukurti peradresavimai iš senų URL"
+
+msgctxt "Languages::seo.error_incorrect_url"
+msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Neteisingas formatas <b>[url]</b> URL. Pavyzdžiui, jei jūsų URL yra <b>http://example.com/path/to/object</b>, jums reikia <b>įvesti/kelias/iki/objektą</b>"
+
+msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
+msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Pavyzdžiui, jei jūsų URL yra <b>http://example.com/path/to/object</b>, jums reikia <b>įvesti/kelias/iki/objektą</b>"
+
+msgctxt "SettingsSections::seo::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::seo::seo_product_type"
+msgid "Product SEO URL format"
+msgstr "Produkto SEO URL formatas"
+
+msgctxt "SettingsOptions::seo::seo_category_type"
+msgid "Category SEO URL format"
+msgstr "Kategorija SEO URL formatas"
+
+msgctxt "SettingsOptions::seo::seo_page_type"
+msgid "Page SEO URL format"
+msgstr "Puslapio SEO URL formatas"
+
+msgctxt "SettingsOptions::seo::seo_other_type"
+msgid "Other SEO URL format"
+msgstr "Kitos SEO URL formatą"
+
+msgctxt "SettingsOptions::seo::seo_language"
+msgid "Show language in the URL"
+msgstr "Rodyti kalba URL"
+
+msgctxt "SettingsOptions::seo::single_url"
+msgid "Use single URL for all languages"
+msgstr "Vieną URL naudoti visomis kalbomis"
+
+msgctxt "SettingsOptions::seo::non_latin_symbols"
+msgid "Allow non-latin symbols in URL"
+msgstr "Leisti ne lotyniški simbolius URL"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
+msgid "/product-name/"
+msgstr ""
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file"
+msgid "/product-name.html"
+msgstr "/Product-name.html"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
+msgid "/category-name/[subcategory-name/]product-name/"
+msgstr ""
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category"
+msgid "/category-name/[subcategory-name/]product-name.html"
+msgstr "/category-name/[subcategory-name/]product-name"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
+msgid "/parent-category/category/[page-2/]"
+msgstr ""
+
+msgctxt "SettingsVariants::seo::seo_category_type::category"
+msgid "/parent-category/category-[page-2].html"
+msgstr ""
+
+msgctxt "SettingsVariants::seo::seo_category_type::root_category"
+msgid "/category/[page-2/]"
+msgstr ""
+
+msgctxt "SettingsVariants::seo::seo_page_type::page"
+msgid "/parent-page/page.html"
+msgstr "/Parent-Page/Page.html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
+msgid "/parent-page/page/"
+msgstr "/parent-page/page/"
+
+msgctxt "SettingsVariants::seo::seo_page_type::root_page"
+msgid "/page/"
+msgstr "/Page/"
+
+msgctxt "SettingsVariants::seo::seo_other_type::directory"
+msgid "/item/"
+msgstr ""
+
+msgctxt "SettingsVariants::seo::seo_category_type::file"
+msgid "/category[-page-2].html"
+msgstr ""
+
+msgctxt "SettingsVariants::seo::seo_page_type::file"
+msgid "/page.html"
+msgstr "/Page.html"
+
+msgctxt "SettingsVariants::seo::seo_other_type::file"
+msgid "/item.html"
+msgstr "/Item.html"
+

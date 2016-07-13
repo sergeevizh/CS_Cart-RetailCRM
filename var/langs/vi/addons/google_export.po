@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Vietnamese\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: /addons/google_export.po\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-06-01 14:59-0400\n"
+
+msgctxt "Addons::name::google_export"
+msgid "Google export"
+msgstr "Google export"
+
+msgctxt "Addons::description::google_export"
+msgid "Expands the Data Feeds add-on to work with Google Base and creates an example of such data feed"
+msgstr "Mở rộng add-on Data Feeds để làm việc với Google Base và tạo ra một mẫu của các nguồn cấp dữ liệu"
+
+msgctxt "Languages::google_export_general_info"
+msgid "<p>Note: toggle this setting if you need multi-language Google categories installed. Supports French, German, Italian, Spanish, and British English. Pay attention that this operation can take a significant amount of time.</p>"
+msgstr "<p>Lưu ý: chuyển đổi thiết lập này nếu bạn cần danh mục Google đa ngôn ngữ đã cài đặt. Hỗ trợ tiếng Pháp, tiếng Đức, tiếng Ý, tiếng Tây Ban Nha, và tiếng Anh. Chú ý rằng thao tác này có thể mất một khoảng thời gian đáng kể.</p>"
+
+msgctxt "Languages::google_export_start_import"
+msgid "Start importing"
+msgstr "Bắt đầu nhập dữ liệu"
+
+msgctxt "SettingsSections::google_export::general"
+msgid "General"
+msgstr "Tổng quát"
+
+msgctxt "SettingsOptions::google_export::general_info"
+msgid "General info"
+msgstr "Thông tin chung"
+
+msgctxt "SettingsOptions::google_export::additional_langs"
+msgid "Install additional languages for Google categories"
+msgstr "Cài đặt ngôn ngữ bổ sung cho danh mục Google"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices"
+msgid "Don't export items with a price value of 0.00"
+msgstr "Không xuất dữ liệu mặt hàng có giá trị giá là 0,00"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices_description"
+msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
+msgstr "Bạn phải không được bao gồm giá trị giá là 0,00 cho các nguồn Google Products Feed của bạn. Các mặt hàng với mức giá bằng 0 sẽ không thể xuất hiện trong kết quả tìm kiếm."
+
+msgctxt "Languages::addons.google_export.notice"
+msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
+msgstr "Trước khi bạn xuất dữ liệu các sản phẩm đến Google Product Feed, chắc chắn rằng mã <a href=\"[currency_url]\">tiền tệ chính</a> cửa hàng của bạn phù hợp với <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">Tiêu chuẩn ISO 4217</a> và được sử dụng <a href=\"[settings_url]\">Biểu tượng trọng lượng</a> là một trong những ký tự sau: lb, oz, g, kg"
+

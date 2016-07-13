@@ -1,0 +1,140 @@
+
+.sort-by-bestsellers-asc {
+    display: none;
+}
+.mobile-avail-notice {
+    width: 100%;
+    /*min-height: 120px;*/
+    margin: auto;
+    background: #dbf1ff;
+    min-width: 10px !important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px 10px;
+    /*float: left;*/
+    position: relative;
+    overflow: hidden;
+}
+
+.mobile-avail-notice a,
+.mobile-avail-notice a,
+.mobile-avail-notice a:visited,
+.mobile-avail-notice a:active {
+    display: block;
+    background: #36b8f4;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    width: 100%;
+    position: relative;
+    padding: 23px 0px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    overflow: hidden;
+    text-align: center;
+    font-family: Arial;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+.buttons-container{
+    padding: 0px;
+    background: none;
+}
+.mobile-avail-notice .close {
+    font-size: 14px;
+    position: absolute;
+    background: white;
+    color: #36b8f4;
+    
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    width: 30px;
+    height: 30px;
+    border: 3px solid;
+    padding-top: 5px;
+    line-height: 0;
+    text-align: center;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+.mobile-avail-notice div.buttons-container {
+    position: relative;
+    /*top: 8px;*/
+    white-space: nowrap;
+}
+
+.mobile-avail-notice div.buttons-container span.mobile-store-link {
+    margin: 0 0 0 20px;
+    display: inline-block;
+    margin: 0 0 0 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 40%;
+}
+
+.mobile-avail-notice div.buttons-container span.app-download-link {
+    margin: 0 0 0 16px;
+    display: inline-block;
+    margin: 0 0 0 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 40%;
+}
+
+.mobile-avail-notice span span {
+    background: #36b8f4 !important;
+    border-radius: 10px;
+    height: 100px;
+}
+
+span.mobile-store-link a, span.app-download-link a {
+    position: relative;
+    top: 18px;
+    color: white;
+    font: 30pt Arial;
+    text-transform: none !important;
+    background: transparent;
+}
+@media screen and (max-width:767px){
+  .mobile-avail-notice .close{
+      
+  }
+}#LESS#
+@import "styles.less";
+@import "tygh/responsive.less";
+@import "addons/social_buttons/styles.less";
+@import "addons/social_buttons/responsive.less";
+@import "addons/tags/styles.less";
+@import "addons/rss_feed/styles.less";
+@import "addons/newsletters/styles.less";
+@import "addons/gift_certificates/styles.less";
+@import "addons/gift_certificates/responsive.less";
+@import "addons/store_locator/styles.less";
+@import "addons/store_locator/responsive.less";
+@import "addons/blog/styles.less";
+@import "addons/blog/responsive.less";
+@import "addons/reward_points/styles.less";
+@import "addons/rus_pickup/styles.less";
+@import "addons/call_requests/styles.less";
+@import "addons/form_builder/styles.less";
+@import "addons/form_builder/responsive.less";
+@import "addons/banners/styles.less";
+@import "addons/discussion/styles.less";
+@import "addons/discussion/responsive.less";
+@import "addons/wishlist/styles.less";
+@import "addons/wishlist/responsive.less";
+@import "addons/image_zoom/styles.less";
+@import "addons/hybrid_auth/styles.less";
+@import "addons/rus_ruble/styles.less";
+@import "addons/rus_theme_style/footer_wrapper.less";
+@import "addons/rus_theme_style/styles.less";
+@import "addons/rus_theme_style/global_styles.less";
+@import "addons/rus_theme_style/icons.less";
+@import "addons/yandex_delivery/styles.less";
+@import "addons/yandex_delivery/icons.less";

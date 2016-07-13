@@ -1,0 +1,29 @@
+
+.checkout-select-terminals {
+    padding-left: 30px;
+}
+
+.terminal-radio {
+    float: left;
+}
+
+.one-terminal {
+    padding: 8px 0 8px 0;
+}
+
+.terminal__label{
+    margin: -13px 0 0 25px;
+}
+
+.one-terminal__name {
+    font-weight: bold;
+}
+
+.terminal-label__h5{
+    font-size: 110%;
+    padding-bottom: 3px;
+}
+
+.one-terminal__description p{
+    color: lighten(@font, 25%);
+}

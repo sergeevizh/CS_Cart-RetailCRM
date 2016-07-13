@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/bestsellers.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::bestsellers"
+msgid "Bestsellers & On-Sale Products"
+msgstr "Perkamiausi ir išpardavimas"
+
+msgctxt "Addons::description::bestsellers"
+msgid "Collects best selling & on sale product data and adds block fillings to show such products"
+msgstr "Parenka geriausiai parduodamų ir išparduodamų prekių duomenis ir užpildo bloką šiomis prekėmis"
+
+msgctxt "Languages::sort_by_bestsellers_asc"
+msgid "Sort by Bestselling: Low to High"
+msgstr "Rūšiuoti pagal perkamiausios: mažiausia iki labiausia"
+
+msgctxt "Languages::sort_by_bestsellers_desc"
+msgid "Sort by Bestselling"
+msgstr "Rūšiuoti pagal perkamiausias"
+
+msgctxt "Languages::sort_by_on_sale_asc"
+msgid "Sort by discount: Low to High"
+msgstr "Rūšiuoti pagal nuolaidą: mažiausia iki didžiausia"
+
+msgctxt "Languages::sort_by_on_sale_desc"
+msgid "Sort by discount: High to Low"
+msgstr "Rūšiuoti pagal nuolaidą: didžiausia iki mažiausia"
+
+msgctxt "Languages::sales_amount"
+msgid "Sales amount"
+msgstr "Parduota kiekis"
+
+msgctxt "Languages::bestselling"
+msgid "Bestselling"
+msgstr "Labiausiai perkami"
+
+msgctxt "Languages::on_sale"
+msgid "On sale"
+msgstr "Išpardavimas"
+
+msgctxt "Languages::similar"
+msgid "Similar"
+msgstr "Panašūs"
+
+msgctxt "Languages::percent_range"
+msgid "Price range (in % of the main product's price)"
+msgstr "Kainų intervalas ( % pagrindinio produkto kainos)"
+
+msgctxt "Languages::similar_category"
+msgid "Of the same category"
+msgstr "Toje pačioje kategorijoje"
+
+msgctxt "Languages::similar_subcats"
+msgid "Consider subcategories"
+msgstr "Apsvarstyti subkategorijas"
+
+msgctxt "Languages::similar_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "Prekės tik \"sandėlyje\""
+
+msgctxt "Languages::final_sale"
+msgid "Final sale"
+msgstr "Galutinis išpardavimas"
+
+msgctxt "SettingsSections::bestsellers::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsSections::bestsellers::newest"
+msgid "Newest"
+msgstr "Naujausi"
+
+msgctxt "SettingsOptions::bestsellers::final_sale_from"
+msgid "Minimum final sale discount (%)"
+msgstr "Minimali galutinio išpardavimo nuolaida (%)"
+
+msgctxt "SettingsOptions::bestsellers::sales_amount_from"
+msgid "Minimum sales amount to define bestsellers"
+msgstr "Minimali pardavimo suma apibrėžiant perkamiausi"
+
+msgctxt "SettingsOptions::bestsellers::period"
+msgid "Period"
+msgstr "Periodas"
+
+msgctxt "SettingsOptions::bestsellers::last_days"
+msgid "Last days"
+msgstr "Paskutines dienas"
+
+msgctxt "SettingsVariants::bestsellers::period::all"
+msgid "All days"
+msgstr "Visas dienas"
+
+msgctxt "SettingsVariants::bestsellers::period::today"
+msgid "Today"
+msgstr "Šiandien"
+
+msgctxt "SettingsVariants::bestsellers::period::last_days"
+msgid "Last days"
+msgstr "Paskutines dienas"
+
