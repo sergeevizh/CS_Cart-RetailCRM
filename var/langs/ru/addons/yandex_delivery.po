@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-ru\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-ru\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /addons/yandex_delivery.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-06-15 15:59-0400\n"
+
+msgctxt "Addons::name::yandex_delivery"
+msgid "Yandex.Delivery"
+msgstr "Яндекс.Доставка"
+
+msgctxt "Addons::description::yandex_delivery"
+msgid "Yandex delivery service"
+msgstr "Служба доставки Яндекса"
+
+msgctxt "SettingsSections::yandex_delivery::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::yandex_delivery::autocomplete"
+msgid "Autocomplete cities and street"
+msgstr "Автозаполнение города и улицы"
+
+msgctxt "SettingsOptions::yandex_delivery::autopostcode"
+msgid "Autocomplete postcode"
+msgstr "Автозаполнение индекса"
+
+msgctxt "SettingsOptions::yandex_delivery::api_keys"
+msgid "API keys"
+msgstr "Ключи API"
+
+msgctxt "SettingsOptions::yandex_delivery::client_ids"
+msgid "Client ids"
+msgstr "Client ids"
+
+msgctxt "Languages::yandex_delivery_service"
+msgid "Yandex delivery"
+msgstr "Яндекс доставка"
+
+msgctxt "Languages::yandex_delivery_pickuppoint"
+msgid "Pickup point"
+msgstr "Пункт самовывоза"
+
+msgctxt "Languages::yandex_delivery_todoor"
+msgid "To door"
+msgstr "До двери"
+
+msgctxt "Languages::yandex_delivery_metro"
+msgid "Metro"
+msgstr "Рядом с метро"
+
+msgctxt "Languages::yandex_delivery_pay_accepted"
+msgid "Available"
+msgstr "Принимается"
+
+msgctxt "Languages::yandex_delivery_cash"
+msgid "cash"
+msgstr "наличные"
+
+msgctxt "Languages::yandex_delivery_credit_card"
+msgid "credit card"
+msgstr "банковские карты"
+
+msgctxt "Languages::yandex_delivery_deliver_orient_day"
+msgid "deliver orient day"
+msgstr "ориентировочная дата доставки"
+
+msgctxt "Languages::yandex_delivery_instruction"
+msgid "Instruction"
+msgstr "Описание"
+
+msgctxt "Languages::yandex_delivery_all_day"
+msgid "Day and night"
+msgstr "Круглосуточно"
+
+msgctxt "Languages::yandex_delivery_every_day"
+msgid "Daily"
+msgstr "Ежедневно"
+
+msgctxt "Languages::yandex_delivery_weekend"
+msgid "Weekend"
+msgstr "Выходной"
+
+msgctxt "Languages::carrier_yandex"
+msgid "Yandex.Delivery"
+msgstr "Яндекс.Доставка"
+
+msgctxt "Languages::yandex_delivery_shipping"
+msgid "Delivery type"
+msgstr "Тип доставки"
+
+msgctxt "Languages::yandex_delivery_ship_display_type"
+msgid "Display type"
+msgstr "Тип отображения"
+
+msgctxt "Languages::yandex_delivery_cms"
+msgid "Internal"
+msgstr "Внутренний"
+
+msgctxt "Languages::yandex_delivery.sort_points_list"
+msgid "Sort points"
+msgstr "Сортировка точек самовывоза"
+
+msgctxt "Languages::yandex_delivery.sort_near"
+msgid "Near"
+msgstr "Ближайшие"
+
+msgctxt "Languages::yandex_delivery.sort_no"
+msgid "Not sorting"
+msgstr "Без сортировки"
+
+msgctxt "Languages::yandex_delivery.sort_abc"
+msgid "ABC"
+msgstr "По алфавиту"
+
+msgctxt "Languages::yandex_delivery.display_count_pickuppoints"
+msgid "Number of displayed pickup points"
+msgstr "Количество отображаемых точек самовывоза"
+
+msgctxt "Languages::yandex_delivery.all_point"
+msgid "Show all pickup points"
+msgstr "Показать все точки самовывоза"
+

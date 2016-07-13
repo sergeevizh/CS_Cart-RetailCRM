@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/call_requests.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::call_requests"
+msgid "Call requests"
+msgstr "Skambučių užklausa"
+
+msgctxt "Addons::description::call_requests"
+msgid "Adds a call-requests system"
+msgstr "Prideda skambučių užklausas sistemą"
+
+msgctxt "SettingsSections::call_requests::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::call_requests::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::call_requests::phone"
+msgid "Rewrite phone"
+msgstr "Perrašyti telefoną"
+
+msgctxt "SettingsOptions::call_requests::phone_prefix_length"
+msgid "Highlight first chars"
+msgstr "Pažymėkite pirmą simbolį"
+
+msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
+msgid "Enable the \"Buy now with one click\" option"
+msgstr "Įjungti parinktį \"Pirkti dabar vienu paspaudimu\""
+
+msgctxt "SettingsOptions::call_requests::order_status"
+msgid "Order status"
+msgstr "Užsakymo statusas"
+
+msgctxt "SettingsOptions::call_requests::phone_mask"
+msgid "Phone mask"
+msgstr "Telefonas"
+
+msgctxt "SettingsTooltips::call_requests::phone_mask"
+msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Nepažymėkite naudoti automatinio šalis telefono modelio, arba įveskite pasirinktinį trafaretą. Jūs galite naudoti tarpų, kablelių, +, -, ir skaitmenys. Atkreipkite dėmesį, kad 9 – jokių ženklų; Jei jums reikia 9, tipo \\\9. Pavyzdžiai: + 9 (999) 999 99 99, 99999999, 999 999 99 ir 99-99-9999-9999."
+
+msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
+msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Įskaitant skliaustelį, erdves ir pan. Naudokite paryškinti ¹alies kod±, vietovìs kod± bei telefono prefiksas."
+
+msgctxt "Languages::privileges.manage_call_requests"
+msgid "Manage Call requests"
+msgstr "Tvarkyti skambučių užklausas"
+
+msgctxt "Languages::privileges.view_call_requests"
+msgid "View Call requests"
+msgstr "Rodyti skambučių užklausas"
+
+msgctxt "Languages::call_requests"
+msgid "Call requests"
+msgstr "Skambučių užklausa"
+
+msgctxt "Languages::call_requests_menu_description"
+msgid "Manage customer call requests"
+msgstr "Valdyti klientų skambučių užklausas"
+
+msgctxt "Languages::call_requests.request_call"
+msgid "Request call"
+msgstr "Prašymas skambinti"
+
+msgctxt "Languages::call_requests.buy_now_with_one_click"
+msgid "Buy now with 1-click"
+msgstr "Pirkti dabar vienu paspaudimu"
+
+msgctxt "Languages::call_requests.error_validate_call_form"
+msgid "Please enter your email or phone number"
+msgstr "Įveskite savo elektroninio pašto ar telefono numerį"
+
+msgctxt "Languages::call_requests.request_recieved"
+msgid "We have received your request! Our manager will contact you soon."
+msgstr "Mes gavome jūsų prašymą! Mūsų vadybininkas susisieks su jumis."
+
+msgctxt "Languages::call_requests.order_placed"
+msgid "We have received your request! The order #[order_id] has been successfully created. Our manager will contact you soon."
+msgstr "Mes gavome jūsų prašymą! Užsakymas #[order_id] buvo sėkmingai sukurtas. Mūsų vadybininkas susisieks su jumis."
+
+msgctxt "Languages::call_requests.phone_from_settings"
+msgid "Phone from settings"
+msgstr "Telefono formos nustatymai"
+
+msgctxt "Languages::call_requests.enter_phone_or_email_text"
+msgid "Please enter your phone number or email (for our manager to contact you)"
+msgstr "Įveskite savo telefono numerį arba el.paštą ( kuriuo mūsų vadybininkas su jumis galėtų susisiekti)"
+
+msgctxt "Languages::call_requests.status.new"
+msgid "New"
+msgstr "Naujas"
+
+msgctxt "Languages::call_requests.status.in_progress"
+msgid "In progress"
+msgstr "Vyksta"
+
+msgctxt "Languages::call_requests.status.completed"
+msgid "Completed"
+msgstr "Užbaigtas"
+
+msgctxt "Languages::call_requests.status.no_answer"
+msgid "No answer"
+msgstr "Jokio atsakymo"
+
+msgctxt "Languages::call_requests.responsible"
+msgid "Responsible"
+msgstr "Atsakingas"
+
+msgctxt "Languages::call_requests.notes"
+msgid "Notes"
+msgstr "Pastabos"
+
+msgctxt "Languages::call_requests.requested_product"
+msgid "Requested product"
+msgstr "Prašoma prekė"
+
+msgctxt "Languages::call_requests.convenient_time"
+msgid "Сonvenient time"
+msgstr "Tinkamas laikas"
+
+msgctxt "Languages::call_requests.awaiting_call"
+msgid "Awaiting call"
+msgstr "Laukia skambučio"
+
+msgctxt "Languages::call_requests.order_exists"
+msgid "Order exists"
+msgstr "Užsakymas yra"
+
+msgctxt "Languages::call_requests.person_name_and_phone"
+msgid "Name and phone"
+msgstr "Vardas ir telefono numeris"
+
+msgctxt "Languages::call_requests.no_name_specified"
+msgid "No name specified"
+msgstr "Nėra vardo"
+
+msgctxt "Languages::call_requests.use_for_call_requests"
+msgid "Call request and buy now with one click form"
+msgstr "Skambučio užsakymas ir pirkti dabar su vienu paspaudimu"
+
+msgctxt "Languages::block_call_request"
+msgid "Call request"
+msgstr "Skambučių užklausa"
+
+msgctxt "Languages::block_call_request_description"
+msgid "Store phone number and form for requesting a call"
+msgstr "Parduotuvės telefono numeris ir forma, skirta užklausti"
+
+msgctxt "Languages::tmpl_call_request"
+msgid "Call request form"
+msgstr "Skambinimo užklausos formą"
+
+msgctxt "Languages::call_requests.text_call_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Pirkėjas [customer] kurio tel. [phone_number] <a href=\"[href]\"> laukia jūsų skambučio</a>."
+
+msgctxt "Languages::call_requests.text_call_request_call_time"
+msgid "The convenient call time is between [time_from] and [time_to]."
+msgstr "Patogus skambinti laikas nuo [time_from] iki [time_to]."
+
+msgctxt "Languages::call_requests.text_buy_with_one_click_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Pirkėjas [customer] kurio tel. <a href=\"[href]\"> laukia jūsų skambučių</a> [phone_number], dėl produktų <a href=\"[product_href]\">[product_name]</a> pirkti."
+
+msgctxt "Languages::call_requests.error_validator_phone"
+msgid "The phone number in the <b>[field]</b> field is invalid."
+msgstr ""
+

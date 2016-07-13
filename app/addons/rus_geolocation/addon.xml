@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>rus_geolocation</id>
+    <version>1.0.0</version>
+    <priority>2400</priority>
+    <status>active</status>
+    <default_language>ru</default_language>
+    <compatibility>
+        <dependencies>rus_cities</dependencies>
+        <core_version>
+            <min>4.3.7</min>
+        </core_version>
+        <core_edition>
+            ULTIMATE
+        </core_edition>
+    </compatibility>
+    <settings layout="separate" edition_type="ROOT,ULT:VENDOR">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="provider">
+                        <type>header</type>
+                    </item>
+                    <item id="geolocation_provider">
+                        <type>selectbox</type>
+                        <default_value>browser</default_value>
+                        <variants>
+                            <item id="browser"></item>
+                            <item id="auto"></item>
+                            <item id="yandex"></item>
+                        </variants>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    <functions>
+        <item for="install">fn_rus_geolocation_install</item>
+        <item for="uninstall">fn_rus_geolocation_uninstall</item>
+    </functions>
+</addon>

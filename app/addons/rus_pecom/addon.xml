@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>rus_pecom</id>
+    <version>1.0.0</version>
+    <priority>4500</priority>
+    <position>0</position>
+    <auto_install>ULTIMATE,MULTIVENDOR</auto_install>
+    <status>active</status>
+    <default_language>ru</default_language>
+
+    <compatibility>
+        <core_version>
+            <min>4.2.1</min>
+        </core_version>
+        <core_edition>
+            ULTIMATE,MULTIVENDOR
+        </core_edition>
+    </compatibility>
+
+    <functions>
+        <item for="install">fn_rus_pecom_install</item>
+        <item for="uninstall">fn_rus_pecom_uninstall</item>
+    </functions>
+</addon>

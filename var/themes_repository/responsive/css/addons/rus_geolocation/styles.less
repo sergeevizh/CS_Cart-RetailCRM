@@ -1,0 +1,61 @@
+.ty-geolocation {
+    margin: 4px 0px 0px;
+    text-align: left;
+}
+
+.ty-geolocation-head-city {
+    font-size: 14px;
+
+    a {
+        color: darken(@base, 40%);
+        border-bottom: 1px dotted darken(@base, 40%);
+        white-space: nowrap;
+    }
+}
+
+
+.ty-geolocation-city {
+    color: darken(@base, 40%);
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1em;
+
+    label {
+        margin-bottom: 10px;
+    }
+}
+
+.ty-table-cities {
+    width: 100%;
+    display:block;
+    max-height: 300px;
+    overflow: auto;
+    tbody {
+        display: inline-block;
+        width: 100%;
+        overflow: auto;
+    }
+}
+
+.ty-table-cities__item {
+    vertical-align: top;
+}
+
+.ty-button-select-cities {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.ui-autocomplete {
+    .ui-menu-item {
+        background: transparent;
+        padding: 3px 6px;
+        box-sizing: border-box;
+        &.ui-state-focus {
+            border: none;
+            background: transparent;
+            background-color: lighten(@base, 40%);
+        }
+    }
+}

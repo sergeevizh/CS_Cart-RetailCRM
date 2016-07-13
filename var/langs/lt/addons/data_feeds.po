@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/data_feeds.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::data_feeds"
+msgid "Data feeds"
+msgstr "Duomenų kanalai"
+
+msgctxt "Addons::description::data_feeds"
+msgid "Makes it possible to create product data feeds in CSV"
+msgstr "Suteikia galimybę sukurti prekių data feeds CSV formatu"
+
+msgctxt "Languages::data_feeds"
+msgid "Data feeds"
+msgstr "Duomenų kanalai"
+
+msgctxt "Languages::data_feed"
+msgid "Data feed"
+msgstr "Data feed"
+
+msgctxt "Languages::export_by_cron"
+msgid "Export by cron"
+msgstr "Eksportuoti cron pagalba"
+
+msgctxt "Languages::export_by_cron_to"
+msgid "Export by cron to"
+msgstr "Eksportuoti iš cron į"
+
+msgctxt "Languages::add_new_datafeed"
+msgid "New data feed"
+msgstr "Naujas data feed"
+
+msgctxt "Languages::add_datafeed"
+msgid "Add data feed"
+msgstr "Pridėti data feed"
+
+msgctxt "Languages::datafeed_name"
+msgid "Data feed name"
+msgstr "Data feed pavadinimas"
+
+msgctxt "Languages::save_directory"
+msgid "Server directory"
+msgstr "Serverio katalogas"
+
+msgctxt "Languages::ftp_url"
+msgid "FTP server"
+msgstr "FTP serveris"
+
+msgctxt "Languages::ftp_url_hint"
+msgid "The format is: FTPHOST[:PORT][/DIRECTORY]. Example: ftp.yourhost.com:21/home/username/folder"
+msgstr "Formatas: FTPHOST [:PORT] [/DIRECTORY]. Pavyzdys: ftp.yourhost.com:21/home/username/folder"
+
+msgctxt "Languages::ftp_user"
+msgid "FTP username"
+msgstr "FTP vartotojo vardas"
+
+msgctxt "Languages::ftp_pass"
+msgid "FTP password"
+msgstr "FTP slaptažodis"
+
+msgctxt "Languages::fields"
+msgid "Fields"
+msgstr "Laukai"
+
+msgctxt "Languages::field_name"
+msgid "Field name"
+msgstr "Lauko pavadinimas"
+
+msgctxt "Languages::field_type"
+msgid "Field type"
+msgstr "Lauko tipas"
+
+msgctxt "Languages::map_fields"
+msgid "Fields mapping"
+msgstr "Laukų išdėstymas"
+
+msgctxt "Languages::update_datafeed"
+msgid "Editing data feed"
+msgstr "Redaguoti data feed"
+
+msgctxt "Languages::export_cron_hint"
+msgid "Use the following line to run the script according to schedule"
+msgstr "Naudokite šį scenarijus kad paleistumėte skriptą pagal tvarkaraštį"
+
+msgctxt "Languages::exported_items"
+msgid "Exported items"
+msgstr "Eksportuojamos prekės"
+
+msgctxt "Languages::ftp_connection_problem"
+msgid "Unable connect to FTP server. Please, check FTP connection information"
+msgstr "Nepavyko prisijungti prie FTP serverio. Prašome atidžiai patikrinti FTP ryšio informaciją"
+
+msgctxt "Languages::categories_products"
+msgid "Products from categories"
+msgstr "Prekės iš kategorijų"
+
+msgctxt "Languages::local_export"
+msgid "Download"
+msgstr "Parsisiųsti"
+
+msgctxt "Languages::upload_to_ftp"
+msgid "Upload to FTP server"
+msgstr "Įkelti į FTP serverį"
+
+msgctxt "Languages::cron_export"
+msgid "Cron export settings"
+msgstr "Cron eksportavimo parametrai"
+
+msgctxt "Languages::export_to_server"
+msgid "Export to server"
+msgstr "Eksportuoti į serverį"
+
+msgctxt "Languages::export_to_ftp"
+msgid "FTP server options"
+msgstr "FTP serverio parinktys"
+
+msgctxt "Languages::ftp"
+msgid "FTP"
+msgstr "FTP"
+
+msgctxt "Languages::check_server_export_settings"
+msgid "Check server export settings"
+msgstr "Patikrinkite, ar serverio eksporto parametrus"
+
+msgctxt "Languages::exclude_disabled_products"
+msgid "Exclude disabled products"
+msgstr "Neįtraukti naktyvuotas prekes"
+
+msgctxt "Languages::general_settings"
+msgid "General settings"
+msgstr "Bendrieji parametrai"
+
+msgctxt "Languages::enclosure"
+msgid "Enclosure"
+msgstr "Prievadas"
+
+msgctxt "SettingsSections::data_feeds::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::data_feeds::cron_password"
+msgid "Cron password"
+msgstr "Cron slaptažodis"
+
+msgctxt "Languages::data_feed.error_exim_no_data_exported"
+msgid "No data exported"
+msgstr "Nėra eksportuojamų duomenų"
+

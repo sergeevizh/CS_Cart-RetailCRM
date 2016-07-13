@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/price_list.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::price_list"
+msgid "Price list"
+msgstr "Kainų sąrašas"
+
+msgctxt "Addons::description::price_list"
+msgid "Generates configurable price list in PDF or XLS"
+msgstr "Generuoja konfigūruojama Kainoraštis PDF arba XLS"
+
+msgctxt "Languages::price_list"
+msgid "Price list"
+msgstr "Kainų sąrašas"
+
+msgctxt "Languages::selected_fields"
+msgid "Selected fields"
+msgstr "Pasirinkti laukus"
+
+msgctxt "Languages::generating_pdf"
+msgid "Generating PDF. Please, be patient..."
+msgstr "Generavimas PDF. Prašome, būkite kantrūs..."
+
+msgctxt "Languages::generating_xls"
+msgid "Generating XLS. Please, be patient..."
+msgstr "Generuoti XLS. Prašome, būkite kantrūs..."
+
+msgctxt "Languages::price_list_ziparchive_not_installed"
+msgid "Impossible to create XML price list. Please add zip support in PHP on your server. Follow <a href=\"http://www.php.net/manual/en/zip.installation.php\">http://www.php.net/manual/en/zip.installation.php</a>."
+msgstr "Neįmanoma sukurti XML kainoraštis. Prašome pridėti zip parama PHP serveryje. Sekti <a href=\"http://www.php.net/manual/en/zip.installation.php\"> http://www.php.net/manual/en/zip.installation.php</a>."
+
+msgctxt "Languages::price_list.text_select_storefront"
+msgid "To generate a price list, please select storefront first."
+msgstr ""
+
+msgctxt "Languages::price_list.text_regenerate"
+msgid "<p>If products, categories or selected fields were added or changed, please regenerate a price list:<br />[buttons]</p><p>Generated price lists are available by these links<br/>[links]</p>"
+msgstr ""
+
+msgctxt "SettingsSections::price_list::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::price_list::price_list_fields"
+msgid "Fields"
+msgstr "Laukai"
+
+msgctxt "SettingsOptions::price_list::price_list_sorting"
+msgid "Sort by"
+msgstr "Rūšiuoti pagal"
+
+msgctxt "SettingsOptions::price_list::group_by_category"
+msgid "Group by category"
+msgstr "Grupuoti pagal kategoriją"
+
+msgctxt "SettingsOptions::price_list::include_options"
+msgid "Include product options"
+msgstr "Apima produkto funkcijos"
+

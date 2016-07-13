@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/help_tutorial.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::help_tutorial"
+msgid "Video tutorials"
+msgstr "Video pagalba"
+
+msgctxt "Addons::description::help_tutorial"
+msgid "Enables on-site video tutorials in the admin panel"
+msgstr "Įgalina puslapyje video pagalbą adminsitravimo dalyje"
+
+msgctxt "Languages::help_tutorial.need_help"
+msgid "Need help?"
+msgstr "Reikia pagalbos?"
+

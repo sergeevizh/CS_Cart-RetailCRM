@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/quickbooks.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::quickbooks"
+msgid "Quickbooks"
+msgstr "QuickBooks"
+
+msgctxt "Addons::description::quickbooks"
+msgid "Integrates the Quickbooks accounting software with the store"
+msgstr "Integruoja Quickbooks apskaitos programa su parduotuve"
+
+msgctxt "Languages::export_to_quickbooks"
+msgid "Export to Quickbooks"
+msgstr "Eksportuoti į Quickbooks"
+
+msgctxt "SettingsSections::quickbooks::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::quickbooks::trns_class"
+msgid "Transaction class name"
+msgstr "Sandorio klasės pavadinimas"
+
+msgctxt "SettingsOptions::quickbooks::accnt_tax"
+msgid "Account to track taxes. The type of this account should be INC."
+msgstr "Sąskaita sekti mokesčius. Šio abonemento tipo turėtų būti Inc"
+
+msgctxt "SettingsOptions::quickbooks::accnt_product"
+msgid "Account to track product sales. The type of this account should be INC."
+msgstr "Į stebėti produkto pardavimo. Šio abonemento tipo turėtų būti Inc"
+
+msgctxt "SettingsOptions::quickbooks::accnt_shipping"
+msgid "Account to track shipping cost. The type of this account should be INC."
+msgstr "Į stebėti siuntimo išlaidų. Šio abonemento tipo turėtų būti Inc"
+
+msgctxt "SettingsOptions::quickbooks::accnt_discount"
+msgid "Account to track discounts. The type of this account should be INC."
+msgstr "Sąskaita sekti nuolaidas. Šio abonemento tipo turėtų būti Inc"
+
+msgctxt "SettingsOptions::quickbooks::accnt_surcharge"
+msgid "Account to track the payment surcharge of your items sales (where applicable). The type of this account should be INC."
+msgstr "Tenka stebėti mokėjimo už papildomą mokestį jūsų prekių pardavimo (kai taikoma). Šio abonemento tipo turėtų būti Inc"
+
+msgctxt "SettingsOptions::quickbooks::accnt_asset"
+msgid "Account to track the value of your inventory. The type of this account should be OASSET."
+msgstr "Sąskaita, stebėti savo atsargų vertę. Šios sąskaitos tipas turi būti OASSET."
+
+msgctxt "SettingsOptions::quickbooks::accnt_cogs"
+msgid "Account to track the cost of your items sales. The type of this account should be COGS."
+msgstr "Sąskaita, stebėti savo prekių pardavimo kaina. Šio abonemento tipo turėtų būti PPS."
+

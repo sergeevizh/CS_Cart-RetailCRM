@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/polls.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::polls"
+msgid "Polls"
+msgstr "Apklausos"
+
+msgctxt "Addons::description::polls"
+msgid "Adds a possibility to add customized polls to the site"
+msgstr "Prideda galimybę pridėti individualų apklausas į svetainę"
+
+msgctxt "Languages::use_for_polls"
+msgid "Polls"
+msgstr "Apklausos"
+
+msgctxt "Languages::tmpl_polls_central"
+msgid "Central"
+msgstr "Centrinis"
+
+msgctxt "Languages::tmpl_polls_side"
+msgid "Side box"
+msgstr "Pusės langelyje"
+
+msgctxt "Languages::polls_answers_with_comments"
+msgid "Answers with comments"
+msgstr "Atsakymai su komentarais"
+
+msgctxt "Languages::polls_have_completed"
+msgid "You have already completed this poll."
+msgstr "Jūs jau dalyvavote šioje apklausoje."
+
+msgctxt "Languages::polls_total_votes"
+msgid "Total votes"
+msgstr "Iš viso dalyvavo"
+
+msgctxt "Languages::polls"
+msgid "Polls"
+msgstr "Apklausos"
+
+msgctxt "Languages::new_poll"
+msgid "New poll"
+msgstr "Nauja apklausa"
+
+msgctxt "Languages::editing_poll"
+msgid "Editing poll"
+msgstr "Redaguoti apklausą"
+
+msgctxt "Languages::use_for_polls"
+msgid "Polls"
+msgstr "Apklausos"
+
+msgctxt "Languages::text_you_have_already_filled_this_poll"
+msgid "You have already completed this poll"
+msgstr "Jūs jau dalyvavote šioje apklausoje"
+
+msgctxt "Languages::block_polls"
+msgid "Polls"
+msgstr "Apklausos"
+
+msgctxt "Languages::poll"
+msgid "Poll"
+msgstr "Apklausa"
+
+msgctxt "Languages::questions"
+msgid "Questions"
+msgstr "Klausimai"
+
+msgctxt "Languages::poll_statistics"
+msgid "Poll statistics"
+msgstr "Apklausos statistika"
+
+msgctxt "Languages::add_polls_and_close"
+msgid "Add polls and close"
+msgstr "Pridėti apklausas ir uždaryti"
+
+msgctxt "Languages::add_polls"
+msgid "Add polls"
+msgstr "Pridėti apklausą"
+
+msgctxt "Languages::required_not_answered"
+msgid "You should answer all the mandatory questions"
+msgstr "Jums turite atsakyti į privalomus klausimus"
+
+msgctxt "Languages::thanks_for_voting"
+msgid "Thank you for taking time to complete this poll."
+msgstr "Ačiū, kad radote laiko užpildyti šią apklausą."
+
+msgctxt "Languages::poll_show_results"
+msgid "Poll results visible to"
+msgstr "Apklausos rezultatai matomi"
+
+msgctxt "Languages::poll_results_nobody"
+msgid "nobody"
+msgstr "niekas"
+
+msgctxt "Languages::poll_results_voted"
+msgid "voted users"
+msgstr "dalyvavę vartotojai"
+
+msgctxt "Languages::poll_results_everybody"
+msgid "everybody (in a pop-up)"
+msgstr "visiems (pop-up)"
+
+msgctxt "Languages::poll_header"
+msgid "Poll header"
+msgstr "Apklausos antraštė"
+
+msgctxt "Languages::poll_footer"
+msgid "Poll footer"
+msgstr "Apklausos poraštė"
+
+msgctxt "Languages::poll_results"
+msgid "Poll message"
+msgstr "Apklausos pranešimas"
+
+msgctxt "Languages::new_question"
+msgid "New question"
+msgstr "Naujas klausimas"
+
+msgctxt "Languages::add_question"
+msgid "Add question"
+msgstr "Pridėti klausimą"
+
+msgctxt "Languages::editing_question"
+msgid "Editing question"
+msgstr "Redaguoti klausimą"
+
+msgctxt "Languages::add_poll"
+msgid "Add poll"
+msgstr "Pridėti apklausą"
+
+msgctxt "Languages::polls_total_submited"
+msgid "Total number of submitted poll forms"
+msgstr "Iš viso pateiktų apklausos formų"
+
+msgctxt "Languages::polls_total_completed"
+msgid "Number of poll forms completed in full"
+msgstr "Apklausos formos užpildytos pilnai"
+
+msgctxt "Languages::polls_first_submited"
+msgid "First poll form submitted"
+msgstr "Pirmosios apklausos formą, pateiktos"
+
+msgctxt "Languages::polls_last_submited"
+msgid "Last poll form submitted"
+msgstr "Paskutinė apklausa formą pateikta"
+
+msgctxt "Languages::statistics_by_questions"
+msgid "Statistics by questions"
+msgstr "Statistika pagal  klausimus"
+
+msgctxt "Languages::view_answers"
+msgid "View answers"
+msgstr "Rodyti atsakymus"
+
+msgctxt "Languages::polls_votes"
+msgid "Votes"
+msgstr "Balsai"
+
+msgctxt "Languages::answers"
+msgid "Answers"
+msgstr "Atsakymai"
+
+msgctxt "Languages::question_text"
+msgid "Question text"
+msgstr "Klausimo tekstas"
+
+msgctxt "Languages::select_single_type"
+msgid "Select single option"
+msgstr "Pasirinkite vieną parinktį"
+
+msgctxt "Languages::select_one_or_more_type"
+msgid "Select one or more options"
+msgstr "Pasirinkite vieną ar kelias pasirinktis"
+
+msgctxt "Languages::text_answer_type"
+msgid "Provide a textual answer"
+msgstr "Pateikti tekstinį atsakymą"
+
+msgctxt "Languages::answer_text"
+msgid "Answer text"
+msgstr "Atsakymo tekstas"
+
+msgctxt "Languages::text_box"
+msgid "Text box"
+msgstr "Teksto laukas"
+
+msgctxt "Languages::tt_addons_polls_hooks_pages_tabs_content_post_poll_results"
+msgid "Message that is displayed in the storefront after the poll is completed."
+msgstr "Pranešimas, kuris rodomas po apklausos pabaigimo."
+
+msgctxt "SettingsSections::polls::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::polls::polls_votes_on_page"
+msgid "Votes on page"
+msgstr "Balsų puslapyje"
+
+msgctxt "SettingsOptions::polls::polls_comments_on_page"
+msgid "Answers on page"
+msgstr "Atsakymai puslapyje"
+

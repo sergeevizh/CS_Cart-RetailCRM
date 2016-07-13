@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: lt\n"
+"X-Crowdin-File: /addons/store_locator.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-03-17 08:58-0400\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Store locator"
+msgstr "Parduotuvės vieta"
+
+msgctxt "Addons::description::store_locator"
+msgid "Lets you place local stores on map and inform customers about their nearest stores"
+msgstr "Leidžia jums įdėti vietos parduotuvėse žemėlapį ir informuoti klientus apie jūsų artimiausią parduotuvę"
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Rodyti žemėlapį"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Gauti API raktą"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Parduotuvės vieta"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Store locator blokas"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Adresas nerastas"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Pasirinkite koordinates"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Rinkinys"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Redaguoti store location"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Nauja parduotuvės vieta"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Įtraukti parduotuvės vietą"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Koordinatės"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "Lat"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "long"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Visos parduotuvės"
+
+msgctxt "Languages::zoom"
+msgid "Map zoom"
+msgstr "Žemėlapio priartinimas"
+
+msgctxt "Languages::map_type_control"
+msgid "MapType control"
+msgstr "Žemėlapio valdymas"
+
+msgctxt "Languages::zoom_control"
+msgid "Zoom control"
+msgstr "Mastelio keitimo valdymas"
+
+msgctxt "Languages::scale_control"
+msgid "Scale control"
+msgstr "Mastelio kontrolė"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Bendras"
+
+msgctxt "SettingsOptions::store_locator::provider"
+msgid "Map provider"
+msgstr "Žemėlapių teikėjas"
+
+msgctxt "SettingsOptions::store_locator::map_provider"
+msgid "Map"
+msgstr "Žemėlapis"
+
+msgctxt "SettingsOptions::store_locator::settings"
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgctxt "SettingsVariants::store_locator::map_provider::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Manage store locator"
+msgstr "Valdyti parduotuvės vietas"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "View store locator"
+msgstr "Rodyti parduotuvės vietas"
+
