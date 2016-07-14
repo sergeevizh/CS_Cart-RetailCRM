@@ -1,6 +1,7 @@
 SELECT
     `pd`.`product_id` AS `id`,
     `pd`.`product_id` AS `productId`,
+    `amount` AS `quantity`,
     `price` AS `price`,
     `category_id` AS `categoryId`,
     `product` AS `name`,
