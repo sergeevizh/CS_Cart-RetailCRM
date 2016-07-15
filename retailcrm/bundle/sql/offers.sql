@@ -2,13 +2,14 @@ SELECT
     `pd`.`product_id` AS `id`,
     `pd`.`product_id` AS `productId`,
     `amount` AS `quantity`,
+    `name` AS `url`,
     `price` AS `price`,
     `category_id` AS `categoryId`,
+    `image_path` AS `picture`,
     `product` AS `name`,
     `product` AS `productName`,
-    `product_code` AS `article`,
-    CONCAT('/images/detailed/1/',`image_path`) AS `picture`,
-    `name` AS `url`
+    `product_code` AS `article`
+
 FROM `products` AS `p`
     INNER JOIN `product_descriptions` AS `pd` ON `pd`.`product_id` = `p`.`product_id`
     INNER JOIN `product_prices` AS `pp` ON `pp`.`product_id` = `p`.`product_id`
