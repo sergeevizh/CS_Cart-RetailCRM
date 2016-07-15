@@ -17,7 +17,7 @@ FROM `products` AS `p`
 
     INNER JOIN `images_links` AS `il` ON `il`.`object_id` = `p`.`product_id`
     INNER JOIN `images` AS `i` ON `i`.`image_id` = `il`.`detailed_id`
-    LEFT JOIN `seo_names` AS `sn` ON `sn`.`object_id` = `p`.`product_id`
+    INNER JOIN `seo_names` AS `sn` ON `sn`.`object_id` = `p`.`product_id`
 WHERE `sn`.`type` = 'p'
 GROUP BY `id`
 ORDER BY `id`
